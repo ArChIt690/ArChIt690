@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 82" width="1000" height="82">
+<text x="4" y="40" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#4ade80">01.</text>
+<text x="44" y="41" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#e6edf3">Robotics &amp; Hardware</text>
+<rect x="44" y="52" height="2" width="0" fill="#4ade80"><animate attributeName="width" from="0" to="952" dur="1.2s" begin="0.2s" fill="freeze"/></rect>
+<text x="44" y="74" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#5b6b7c" opacity="0">// team builds where I own specific subsystems<animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.6s" fill="freeze"/></text>
+</svg>
